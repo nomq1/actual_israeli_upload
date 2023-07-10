@@ -2,7 +2,7 @@
 this is just me sharing my quick and dirty project
 
 you probobly want to run :
-npm i 
+npm i   
 npm start
 
 
