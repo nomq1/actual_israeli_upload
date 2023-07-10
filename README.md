@@ -1,7 +1,7 @@
 # actual_israeli_upload
 this is just me sharing my quick and dirty project
 
-you probobly want to run :
+you probobly want to run :  
 npm i   
 npm start
 
